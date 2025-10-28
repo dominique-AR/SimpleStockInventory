@@ -19,7 +19,6 @@ Elle combine :
 - 📉 **Gestion des Stocks** : suivi en temps réel + alertes pour stock minimum  
 - 🕓 **Historique complet** : suivi des achats et retraits *(qui, quand, pourquoi)*  
 - 👥 **Gestion des Utilisateurs** : contrôle des droits et traçabilité  
-- 🔒 **Relations sécurisées** : intégrité référentielle garantie  
 - ⚙️ **Automatisations VBA** : alertes, validations et mises à jour automatiques  
 
 ---
